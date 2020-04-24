@@ -118,6 +118,9 @@ p {
                 padding-right:0;
 		text-align: center;
 	}
+        #pricing {
+                padding: 70px;
+}
 }
 /*CTA*/
 #cta {
